@@ -1,6 +1,8 @@
 
 # Introducción a Bulma CSS
 ![logo](./readme_images/readme_1.JPG)
+- [Link](https://bulma.io/)
+- [Link](https://sass-lang.com/)
 
 ## ¿Qué es Bulma Css?
 ![definicion](./readme_images/readme_2.JPG)
