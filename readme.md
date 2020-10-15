@@ -12,7 +12,7 @@
 2) Es un framework mobile first.
 
 ![pantalla_uno](./readme_images/readme_3.JPG)
-- [Rresponsive en Bulma](https://bulma.io/documentation/overview/responsiveness/)
+- [Responsive en Bulma](https://bulma.io/documentation/overview/responsiveness/)
 
 ## ¿Cuál elegir y para qué casos?
 ![pantalla_uno](./readme_images/readme_4.JPG)
