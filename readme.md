@@ -29,3 +29,6 @@
 Estas son las opciones que podemos usar para controlar el ancho de columna:
 
 ![pantalla_uno](./readme_images/readme_7.JPG)
+
+## Ej: Login
+![pantalla_uno](./readme_images/readme_8.JPG)
